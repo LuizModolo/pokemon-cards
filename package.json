@@ -14,7 +14,7 @@
     "react-scripts": "4.0.3",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://luizmodolo.github.io/tryunfo-project-luiz",
+  "homepage": "https://luizmodolo.github.io/pokemon-cards/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
