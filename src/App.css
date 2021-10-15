@@ -102,8 +102,8 @@ hr {
 .headerApp {
   align-items: center;
   background-color: black;
-  background-position: 90% 40%;
-  background-size: 30%;
+  background-position: 80% 40%;
+  background-size: 40%;
   background-repeat: no-repeat;
   background-image: url(./img/pokémon-charmander-squirtle-bulbasaur-wallpaper.jpg);
   display: flex;
