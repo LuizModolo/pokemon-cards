@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/pokemon-cards/static/css/main.c034b80f.chunk.css",
+    "main.js": "/pokemon-cards/static/js/main.c19863b8.chunk.js",
+    "main.js.map": "/pokemon-cards/static/js/main.c19863b8.chunk.js.map",
+    "runtime-main.js": "/pokemon-cards/static/js/runtime-main.d3bf777e.js",
+    "runtime-main.js.map": "/pokemon-cards/static/js/runtime-main.d3bf777e.js.map",
+    "static/js/2.c07f352f.chunk.js": "/pokemon-cards/static/js/2.c07f352f.chunk.js",
+    "static/js/2.c07f352f.chunk.js.map": "/pokemon-cards/static/js/2.c07f352f.chunk.js.map",
+    "index.html": "/pokemon-cards/index.html",
+    "static/css/main.c034b80f.chunk.css.map": "/pokemon-cards/static/css/main.c034b80f.chunk.css.map",
+    "static/js/2.c07f352f.chunk.js.LICENSE.txt": "/pokemon-cards/static/js/2.c07f352f.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/pokemon-cards/static/media/water_pokemon_card_by_maskadra42_db506yk.4334f1c8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3bf777e.js",
+    "static/js/2.c07f352f.chunk.js",
+    "static/css/main.c034b80f.chunk.css",
+    "static/js/main.c19863b8.chunk.js"
+  ]
+}
